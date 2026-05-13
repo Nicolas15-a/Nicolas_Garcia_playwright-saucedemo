@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+# Playwright artifacts
+test-results/
+playwright-report/
+.auth/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
